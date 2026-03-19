@@ -9,13 +9,20 @@ This project analyzes a dataset of **10,000 banking customers** to move beyond s
 * **Insights Framework:** Behavioral Paradox Discovery
 ---
 ### 🖥️ Executive Dashboard Summary
-| **Market Variance** | **The Risk Matrix** |
-| :--- | :--- |
-| ![Market Variance](visualizations/market_variance_germany.png) | ![Risk Heatmap](visualizations/vulnerability_matrix_heatmap.png) |
-| **Loyalty Slumber** | **The Credit Trap** |
-| ![Activity Gap](visualizations/activity_gap_dumbbell.png) | ![Credit Anchor](visualizations/credit_anchor_lollipop.png) |
-| **Product Overload Cliff** | **The Attrition Journey** |
-| ![Product Cliff](visualizations/product_cliff_paradox.png) | ![Waterfall Chart](visualizations/leaky_bucket_waterfall.png) |
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center"><b>Market Variance</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/market_variance_germany.png" width="100%"></td>
+    <td align="center"><b>The Risk Matrix</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/vulnerability_matrix_heatmap.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Loyalty Slumber</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/activity_gap_dumbbell.png" width="100%"></td>
+    <td align="center"><b>The Credit Trap</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/credit_anchor_lollipop.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Product Overload Cliff</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/product_cliff_paradox.png" width="100%"></td>
+    <td align="center"><b>The Attrition Journey</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/leaky_bucket_waterfall.png" width="100%"></td>
+  </tr>
+</table>
 ---
 
 ### 🔍 The 4 Strategic Paradoxes
