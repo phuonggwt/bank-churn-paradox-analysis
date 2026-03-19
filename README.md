@@ -1,2 +1,52 @@
-# bank-churn-paradox-analysis
-End-to-end Bank Churn Analysis using SQL &amp; R.
+# 🏦 Banking Customer Churn: Behavioral Paradox Analysis
+> **An end-to-end data analytics project using SQL and R to uncover the hidden drivers of customer attrition.**
+---
+### 💵 Project Overview
+This project analyzes a dataset of **10,000 banking customers** to move beyond surface-level metrics. By combining data engineering and behavioral economics, I identified **4 Strategic Paradoxes** that challenge traditional retention assumptions.
+### Tech Stack
+* **Data Warehouse:** Google BigQuery (SQL)
+* **Analytics & Viz:** R (Tidyverse, ggplot2)
+* **Insights Framework:** Behavioral Paradox Discovery
+---
+### 🖥️ Executive Dashboard Summary
+| **Market Variance** | **The Risk Matrix** |
+| :--- | :--- |
+| ![Market Variance](visualizations/market_variance_germany.png) | ![Risk Heatmap](visualizations/vulnerability_matrix_heatmap.png) |
+| **Loyalty Slumber** | **The Credit Trap** |
+| ![Activity Gap](visualizations/activity_gap_dumbbell.png) | ![Credit Anchor](visualizations/credit_anchor_lollipop.png) |
+| **Product Overload Cliff** | **The Attrition Journey** |
+| ![Product Cliff](visualizations/product_cliff_paradox.png) | ![Waterfall Chart](visualizations/leaky_bucket_waterfall.png) |
+---
+
+### 🔍 The 4 Strategic Paradoxes
+
+#### **1. The Loyalty Slumber (Tenure vs. Activity)**
+**Insight:** Tenure is not a shield. Long-term "Veteran" customers (>7 years) who become inactive carry a high churn risk, even though they maintain balances higher than the global average **Activity status outweighs tenure.**
+
+#### **2. The Credit Score Trap (The VIP Exit)**
+**Insight:** In Germany, "Exceptional" credit scores do not guarantee loyalty. These high-tier customers are highly mobile and easily poached by competitors.
+
+ #### **3. The Wealth Accumulator Leak (Female Retention)** 
+ **Insight:** Women over 50, categorized as "Wealth Accumulators," show a staggering churn rate of **63.78%**. This segment feels underserved by traditional digital-only banking models.
+ 
+#### **4. The Product Overload Cliff**
+**Insight:** Churn explodes from 7.5% to over 82% once a customer holds more than 2 products. Aggressive cross-selling is currently backfiring.
+
+---
+
+### 💡 Strategic Recommendations
+1. **VIP "Concierge" Program (Germany):** Design an exclusive high-tier service for the German market, featuring zero transaction fees and priority interest rates to counter Fintech poaching.
+2. **Automated Re-activation Triggers:** Pivot loyalty rewards from "Tenure-based" to "Activity-based." Launch automated **"Welcome Back"** incentives immediately after 3 months of inactivity to wake up "Sleeping Giants."
+3. **Human-Centric Retention for Senior Segments:** Assign dedicated **Relationship Managers** for high-balance female clients (>50 years). Focus on personalized retirement funds and health-insurance bundles instead of generic app notifications.
+4. **Optimize Product-Mix KPI:** Move away from blind cross-selling. Train sales teams on the **"Golden Ratio" of 2 products** to ensure customer stability and prevent "Product Overload."
+
+---
+
+### 📂 Repository Structure
+* `data/`: Raw dataset and source links.
+* `sql_queries/`: BigQuery scripts for cleaning & feature engineering.
+* `r_scripts/`: R scripts for visualizations.
+* `visualizations/`: Exported analytical charts.
+
+### 📂 Data Source
+The dataset used in this analysis is the **Bank Customer Churn Prediction** dataset, sourced from **Kaggle**. It contains 10,000 anonymized records of bank customers with features such as credit score, geography, gender, age, tenure, balance, and activity status.
