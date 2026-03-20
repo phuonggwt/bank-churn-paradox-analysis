@@ -73,6 +73,3 @@ Features include:
 * `sql_queries/`: BigQuery scripts for cleaning & feature engineering.
 * `r_scripts/`: R scripts for visualizations.
 * `visualizations/`: Exported analytical charts.
-
-### 📂 Data Source
-The dataset used in this analysis is the **Bank Customer Churn Prediction** dataset, sourced from **Kaggle**. It contains 10,000 anonymized records of bank customers with features such as credit score, geography, gender, age, tenure, balance, and activity status.
