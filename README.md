@@ -20,7 +20,7 @@ This project analyzes a dataset of **10,000 banking customers** to move beyond s
   </tr>
   <tr>
     <td align="center"><b>Product Overload Cliff</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/product_cliff_paradox.png" width="100%"></td>
-    <td align="center"><b>The Attrition Journey</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/leaky_bucket_waterfall.png" width="100%"></td>
+    <td align="center"><b>The Attrition Journey</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/leaky_bucket_waterfall.png?v=1" width="100%"></td>
   </tr>
 </table>
 ---
