@@ -1,9 +1,28 @@
 # 🏦 Banking Customer Churn: Behavioral Paradox Analysis
 > **An end-to-end data analytics project using SQL and R to uncover the hidden drivers of customer attrition.**
 ---
+
 ### 💵 Project Overview
-This project analyzes a dataset of **10,000 banking customers** to move beyond surface-level metrics. By combining data engineering and behavioral economics, I identified **4 Strategic Paradoxes** that challenge traditional retention assumptions.
-### Tech Stack
+This project aims to identify the key drivers of customer churn in retail banking and propose actionable strategies to improve customer retention.
+
+Rather than focusing solely on descriptive analytics, the analysis adopts a behavioral perspective, uncovering hidden patterns and paradoxes in customer behavior that challenge traditional assumptions about loyalty.
+
+Business Objective: Reduce customer churn rate by identifying high-risk segments and designing targeted retention strategies within a 6-month horizon.
+
+### 🎯 Problem Statement
+Customer churn is a critical issue in retail banking, directly impacting revenue and customer lifetime value.
+
+Traditional assumptions such as: Long tenure = high loyalty, high-value customers = stable retention are tested and challenged using data-driven analysis.
+
+### 🗂️ Dataset
+### Source: Kaggle – Bank Customer Churn Dataset
+### Size: 10,000 customers
+Features include:
+* Demographics (age, gender, geography)
+* Financial data (balance, credit score)
+* Behavioral data (activity status, tenure, product usage)
+
+### 🛠️ Tech Stack
 * **Data Warehouse:** Google BigQuery (SQL)
 * **Analytics & Viz:** R (Tidyverse, ggplot2)
 * **Insights Framework:** Behavioral Paradox Discovery
