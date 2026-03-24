@@ -24,7 +24,7 @@ Features include:
 
 ### 🛠️ Tech Stack
 * **Data Warehouse:** Google BigQuery (SQL)
-* **Analytics & Viz:** R (Tidyverse, ggplot2)
+* **Analytics & Viz:** R (Tidyverse, ggplot2) & Tableau
 * **Insights Framework:** Behavioral Paradox Discovery
 ---
 ### 🖥️ Executive Dashboard Summary
