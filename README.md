@@ -30,6 +30,12 @@ Features include:
 ### 🖥️ Executive Dashboard Summary
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
+    <td colspan="2" align="center">
+      <b>Interactive Dashboard Overview</b><br>
+      <img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/Dashboard%202.png" width="100%">
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Market Variance</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/market_variance_germany.png" width="100%"></td>
     <td align="center"><b>The Risk Matrix</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/vulnerability_matrix_heatmap.png" width="100%"></td>
   </tr>
