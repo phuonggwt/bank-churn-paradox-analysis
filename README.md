@@ -65,8 +65,8 @@ Features include:
 #### **1. The Loyalty Slumber (Tenure vs. Activity)**
 **Insight:** Tenure is not a shield. Long-term "Veteran" customers (>7 years) who become inactive carry a high churn risk, even though they maintain balances higher than the global average **Activity status outweighs tenure.**
 
-#### **2. The Credit Score Trap (The VIP Exit)**
-**Insight:** In Germany, "Exceptional" credit scores do not guarantee loyalty. These high-tier customers are highly mobile and easily poached by competitors.
+#### **2. The German Market Anomaly (Credit Score Irrelevance)**
+**Insight:** Data reveals that credit scores have almost zero impact on customer retention. Instead, the entire German market exhibits an abnormally high churn rate (~30-35%) across all credit tiers—nearly double that of France and Spain. The root cause is regional market dynamics, not individual credit profiles.
 
  #### **3. The Wealth Accumulator Leak (Female Retention)** 
  **Insight:** Women over 50, categorized as "Wealth Accumulators," show a staggering churn rate of **63.78%**. This segment feels underserved by traditional digital-only banking models.
@@ -77,7 +77,7 @@ Features include:
 ---
 
 ### 💡 Strategic Recommendations
-1. **VIP "Concierge" Program (Germany):** Design an exclusive high-tier service for the German market, featuring zero transaction fees and priority interest rates to counter Fintech poaching.
+1. Systemic Market Review & Localized Strategy (Germany): Since churn in Germany spans all credit and wealth tiers, credit-based VIP programs will be ineffective. Instead, conduct an immediate competitive analysis of the German retail banking landscape to identify systemic friction points: Are local competitors offering better fee structures, higher interest rates, or a more localized digital banking experience?
 
 2. **Automated Re-activation Triggers:** Pivot loyalty rewards from "Tenure-based" to "Activity-based." Launch automated **"Welcome Back"** incentives immediately after 3 months of inactivity to wake up "Sleeping Giants."
   
