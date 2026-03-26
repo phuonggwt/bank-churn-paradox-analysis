@@ -32,7 +32,7 @@ Features include:
   <tr>
     <td colspan="2" align="center">
       <b>Interactive Dashboard Overview</b><br>
-      <img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/Dashboard%203.png" width="100%">
+      <img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/Dashboard%204.png" width="100%">
     </td>
 <tr>
     <td colspan="2" align="center">
