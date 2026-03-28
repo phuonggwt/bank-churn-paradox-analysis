@@ -34,17 +34,6 @@ Features include:
       <b>Interactive Dashboard Overview</b><br>
       <img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/Dashboard%204.png" width="100%">
     </td>
-<tr>
-    <td colspan="2" align="center">
-      <br>
-      <b>📥 Download Interactive Workbook</b><br>
-      To explore the full interactivity, click the button below:<br><br>
-      <a href="https://github.com/phuonggwt/bank-churn-paradox-analysis/blob/main/visualizations:/Bank%20Churn%20Dashboard.twbx?raw=true">
-        <img src="https://img.shields.io/badge/Download-Tableau%20Workbook-blue?style=for-the-badge&logo=tableau" alt="Download">
-      </a>
-      <br><br>
-    </td>
-  </tr>
   <tr>
     <td align="center"><b>Market Variance</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/market_variance_germany.png" width="100%"></td>
     <td align="center"><b>The Risk Matrix</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/vulnerability_matrix_heatmap.png" width="100%"></td>
