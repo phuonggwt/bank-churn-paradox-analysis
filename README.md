@@ -58,10 +58,9 @@ Features include:
 **Insight:** Data reveals that credit scores have almost zero impact on customer retention. Instead, the entire German market exhibits an abnormally high churn rate (~30-35%) across all credit tiers—nearly double that of France and Spain. The root cause is regional market dynamics, not individual credit profiles.
 
  #### **3. The Wealth Accumulator Leak (Female Retention)** 
- **Insight:** Women over 50, categorized as "Wealth Accumulators," show a staggering churn rate of **63.78%**. This segment feels underserved by traditional digital-only banking models.
- 
+ **Insight:** Women over 50, categorized as "Wealth Accumulators," show a staggering churn rate of **63.78%**. This raises a strong hypothesis that this high-value demographic may feel underserved by standardized, "one-size-fits-all" digital banking models.
 #### **4. The Product Overload Cliff**
-**Insight:** Churn explodes from 7.5% to over 82% once a customer holds more than 2 products. Aggressive cross-selling is currently backfiring.
+**Insight:** Churn explodes from 7.5% to over 82% once a customer holds more than 2 products. While this might indicate "product overload" from aggressive cross-selling, it could also signal highly leveraged customers (e.g., holding multiple debt products) who are structurally at higher risk of default.
 
 ---
 
@@ -70,11 +69,9 @@ Features include:
 
 2. **Automated Re-activation Triggers:** Pivot loyalty rewards from "Tenure-based" to "Activity-based." Launch automated **"Welcome Back"** incentives immediately after 3 months of inactivity to wake up "Sleeping Giants."
   
-3. **Human-Centric Retention for Senior Segments:** Assign dedicated **Relationship Managers** for high-balance female clients (>50 years). Focus on personalized retirement funds and health-insurance bundles instead of generic app notifications.
+3. **Human-Centric Retention for Senior Segments:** Validate this hypothesis by piloting a dedicated Relationship Manager program for high-balance female clients (>50 years). Focus on personalized retirement funds and health-insurance bundles instead of generic app notifications.
   
-4. **Optimize Product-Mix KPI:** Move away from blind cross-selling. Train sales teams on the **"Golden Ratio" of 2 products** to ensure customer stability and prevent "Product Overload."
-
----
+4. **Optimize Product-Mix KPI:** Shift from blind cross-selling to targeted portfolio reviews. Instead of a hard stop at a "Golden Ratio" of 2 products, treat applications for a 3rd product as a mandatory risk flag requiring a deeper creditworthiness assessment.
 
 ### 📂 Repository Structure
 * `data/`: Raw dataset and source links.
