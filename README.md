@@ -32,22 +32,40 @@ Features include:
   <tr>
     <td colspan="2" align="center">
       <b>Interactive Dashboard Overview</b><br>
-      <img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/Dashboard%204.png" width="100%">
+      <img src="./visualizations/Dashboard 1.png" width="100%">
     </td>
-  <tr>
-    <td align="center"><b>Market Variance</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/market_variance_germany.png" width="100%"></td>
-    <td align="center"><b>The Risk Matrix</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/vulnerability_matrix_heatmap.png" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><b>Loyalty Slumber</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/activity_gap_dumbbell.png" width="100%"></td>
-    <td align="center"><b>The Credit Trap</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/credit_anchor_lollipop.png" width="100%"></td>
+    <td align="center">
+      <b>Market Variance</b><br>
+      <img src="./visualizations/p1_market_variance.png" width="100%">
+    </td>
+    <td align="center">
+      <b>The Risk Matrix</b><br>
+      <img src="./visualizations/p2_risk_matrix.png" width="100%">
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Product Overload Cliff</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/product_cliff_paradox.png" width="100%"></td>
-    <td align="center"><b>The Attrition Journey</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/leaky_bucket_waterfall.png?v=1" width="100%"></td>
+    <td align="center">
+      <b>Loyalty Slumber</b><br>
+      <img src="./visualizations/p3_loyalty_slumber.png" width="100%">
+    </td>
+    <td align="center">
+      <b>The Credit Trap</b><br>
+      <img src="./visualizations/p4_credit_trap.png" width="100%">
+    </td>
   </tr>
-</table>
-
+  <tr>
+    <td align="center">
+      <b>Product Overload Cliff</b><br>
+      <img src="./visualizations/p5_product_overload.png" width="100%">
+    </td>
+    <td align="center">
+      <b>The Attrition Journey</b><br>
+      <img src="./visualizations/p6_attrition_journey.png" width="100%">
+    </td>
+  </tr>
+</table> 
 
 ### 🔍 The 4 Strategic Paradoxes
 
