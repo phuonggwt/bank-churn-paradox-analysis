@@ -47,7 +47,7 @@ Features include:
     <td align="center"><b>The Attrition Journey</b><br><img src="https://raw.githubusercontent.com/phuonggwt/bank-churn-paradox-analysis/main/visualizations:/leaky_bucket_waterfall.png?v=1" width="100%"></td>
   </tr>
 </table>
----
+
 
 ### 🔍 The 4 Strategic Paradoxes
 
