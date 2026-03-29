@@ -78,3 +78,9 @@ Features include:
 * `sql_queries/`: BigQuery scripts for cleaning & feature engineering.
 * `r_scripts/`: R scripts for visualizations.
 * `visualizations/`: Exported analytical charts.
+
+---
+
+### 💵 From Data to Actionable Product Feature
+
+**BA Execution & System Design:** To see how these strategic recommendations are translated into software requirements and system processes, please view the **[BA Artifacts: Automated Trigger Feature](./ba_artifacts/system_design_feature.md)**.
